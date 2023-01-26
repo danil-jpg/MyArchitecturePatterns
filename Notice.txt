@@ -52,3 +52,6 @@ protected soldierClass: PrivateSoldier[] = []; - исправить PrivateSoldi
 
 либо под mvc,либо под mvp написать код typescript
 uml,
+
+MVC - готово,
+MVP - готово,
