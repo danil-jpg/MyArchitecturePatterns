@@ -1,0 +1,1 @@
+https://medium.com/geekculture/view-interactor-presenter-entity-router-viper-2516c8d2f46#:~:text=The%20View%20Interactor%20Presenter%20Entity,then%20isolate%20the%20app's%20dependencies.

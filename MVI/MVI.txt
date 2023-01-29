@@ -15,7 +15,7 @@ View: The View in the MVI is our Interfaces which can be implemented in Activiti
 It means to have a container which can accept the different model states and display it as a UI.
 They use observable intents(Note: This doesn't represent the Android traditional Intents) to respond to user actions.
 
-Intent: Even though this is not an Intent as termed by Android from before.
+Intent: 
 The result of the user actions is passed as an input value to Intents.
 In turn, we can say we will be sending models as inputs to the Intents which can load it through Views.
 
